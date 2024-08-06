@@ -32,6 +32,193 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 3239812,
+      "category": "education",
+      "title": "Coding Workshop",
+      "description": "Learn the basics of JavaScript in this beginner-friendly workshop.",
+      "location": "Tech Hub",
+      "date": "April 15, 2022",
+      "time": "14:00",
+      "petsAllowed": false,
+      "organizer": "Bit Coder"
+    },
+    {
+      "id": 7283629,
+      "category": "music",
+      "title": "Jazz in the Park",
+      "description": "Enjoy an evening of smooth jazz in the city park.",
+      "location": "Harmony Gardens",
+      "date": "June 3, 2022",
+      "time": "19:00",
+      "petsAllowed": true,
+      "organizer": "Melody Maker"
+    },
+    {
+      "id": 9528436,
+      "category": "health",
+      "title": "Yoga on the Beach",
+      "description": "Start your day with a relaxing yoga session by the sea.",
+      "location": "Sunset Beach",
+      "date": "August 12, 2022",
+      "time": "07:00",
+      "petsAllowed": false,
+      "organizer": "Serena Stretch"
+    },
+    {
+      "id": 2387243,
+      "category": "technology",
+      "title": "Drone Racing Championship",
+      "description": "Watch expert drone pilots compete in high-speed races.",
+      "location": "Sky Stadium",
+      "date": "September 8, 2022",
+      "time": "13:00",
+      "petsAllowed": false,
+      "organizer": "Propeller Pro"
+    },
+    {
+      "id": 6234578,
+      "category": "food",
+      "title": "Taco Tasting Festival",
+      "description": "Sample a variety of delicious tacos from local vendors.",
+      "location": "Flavor Town",
+      "date": "October 4, 2022",
+      "time": "18:00",
+      "petsAllowed": true,
+      "organizer": "Taco Lover"
+    },
+    {
+      "id": 1298765,
+      "category": "charity",
+      "title": "Charity Fun Run",
+      "description": "Run for a cause in this annual charity event.",
+      "location": "Central Park",
+      "date": "May 7, 2022",
+      "time": "08:00",
+      "petsAllowed": true,
+      "organizer": "Dash Goodheart"
+    },
+    {
+      "id": 9876543,
+      "category": "art",
+      "title": "Street Art Festival",
+      "description": "Watch artists create amazing murals and street art.",
+      "location": "Downtown",
+      "date": "July 8, 2022",
+      "time": "11:00",
+      "petsAllowed": true,
+      "organizer": "Spray Painter"
+    },
+    {
+      "id": 5432167,
+      "category": "science",
+      "title": "Stargazing Night",
+      "description": "Observe celestial bodies through high-powered telescopes.",
+      "location": "Observatory Hill",
+      "date": "August 19, 2022",
+      "time": "21:00",
+      "petsAllowed": false,
+      "organizer": "Luna Starr"
+    },
+    {
+      "id": 3456789,
+      "category": "sports",
+      "title": "Community Basketball Tournament",
+      "description": "Compete in our annual 3-on-3 basketball tournament.",
+      "location": "City Gym",
+      "date": "June 25, 2022",
+      "time": "09:00",
+      "petsAllowed": false,
+      "organizer": "Hoop Dreams"
+    },
+    {
+      "id": 7654321,
+      "category": "food",
+      "title": "Ice Cream Social",
+      "description": "Beat the heat with all-you-can-eat ice cream.",
+      "location": "Dairy Queen",
+      "date": "July 17, 2022",
+      "time": "14:00",
+      "petsAllowed": true,
+      "organizer": "Scoop There It Is"
+    },
+    {
+      "id": 2345678,
+      "category": "literature",
+      "title": "Book Swap Meet",
+      "description": "Trade your old books for new reads at this community event.",
+      "location": "Public Library",
+      "date": "September 3, 2022",
+      "time": "10:00",
+      "petsAllowed": false,
+      "organizer": "Paige Turner"
+    },
+    {
+      "id": 8765432,
+      "category": "technology",
+      "title": "Virtual Reality Expo",
+      "description": "Experience the latest in VR technology with hands-on demos.",
+      "location": "Convention Center",
+      "date": "October 15, 2022",
+      "time": "11:00",
+      "petsAllowed": false,
+      "organizer": "Virt U. Al"
+    },
+    {
+      "id": 9876123,
+      "category": "music",
+      "title": "Battle of the Bands",
+      "description": "Local bands compete for the title of city's best live act.",
+      "location": "Rock Arena",
+      "date": "November 5, 2022",
+      "time": "19:00",
+      "petsAllowed": false,
+      "organizer": "Axel Rose"
+    },
+    {
+      "id": 5678901,
+      "category": "health",
+      "title": "Meditation Retreat",
+      "description": "A weekend of mindfulness and relaxation techniques.",
+      "location": "Zen Gardens",
+      "date": "December 10, 2022",
+      "time": "09:00",
+      "petsAllowed": false,
+      "organizer": "Om Nama"
+    },
+    {
+      "id": 3456123,
+      "category": "education",
+      "title": "Science Fair",
+      "description": "Students showcase their innovative science projects.",
+      "location": "School Gymnasium",
+      "date": "May 20, 2022",
+      "time": "13:00",
+      "petsAllowed": false,
+      "organizer": "Bill Nye"
+    },
+    {
+      "id": 7891234,
+      "category": "community",
+      "title": "Neighborhood Cleanup",
+      "description": "Join your neighbors in beautifying our local streets.",
+      "location": "Main Street",
+      "date": "April 22, 2022",
+      "time": "10:00",
+      "petsAllowed": true,
+      "organizer": "Green Thumb"
+    },
+    {
+      "id": 4567890,
+      "category": "art",
+      "title": "Pottery Workshop",
+      "description": "Learn the basics of pottery and create your own piece.",
+      "location": "Clay Studio",
+      "date": "June 18, 2022",
+      "time": "15:00",
+      "petsAllowed": false,
+      "organizer": "Clay Day"
     }
   ]
 }
